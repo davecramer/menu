@@ -1,0 +1,3 @@
+[submodule "enyo"]
+	path = web-app/js/enyo
+	url = https://github.com/enyojs/enyo.git
