@@ -1,3 +1,9 @@
 [submodule "enyo"]
 	path = web-app/js/enyo
 	url = https://github.com/enyojs/enyo.git
+[submodule "layout"]
+	path = web-app/js/lib/layout 
+	url = https://github.com/enyojs/layout.git
+[submodule "onyx"]
+	path = web-app/js/lib/onyx 
+	url = https://github.com/enyojs/onyx.git
